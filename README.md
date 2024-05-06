@@ -1,6 +1,5 @@
 # Intellipaat Capstone Project - Extracting Insights from Student Survey Data using Power BI
 
-Introduction:
 As part of the Post Graduation Certification in Data Analytics program offered by i-HUB IIT Roorkie through Intellipaat,
 a comprehensive project was undertaken to delve into the realms of data visualization and analysis using Power BI. 
 This project aimed to equip participants with essential skills in Power BI, including visual creation, data modeling, 
