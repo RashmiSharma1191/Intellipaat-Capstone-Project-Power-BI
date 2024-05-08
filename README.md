@@ -1,4 +1,9 @@
 # Intellipaat Capstone Project - Extracting Insights from Student Survey Data using Power BI
+I worked on a project in which :
+
+Industry Type: Retail Store
+
+Dataset: Student Survey 
 
 As part of the Post Graduation Certification in Data Analytics program offered by i-HUB IIT Roorkie through Intellipaat,
 a comprehensive project was undertaken to delve into the realms of data visualization and analysis using Power BI. 
@@ -14,11 +19,4 @@ Learning Objectives:
 6. Gateway Connection and Schedule Refresh: Understanding of establishing gateway connections and scheduling data refreshes
 7. to ensure up-to-date insights.
 
-Project Objective:
-In the United States, numerous stores conducted surveys among students to gauge their spending habits across various 
-categories such as Video Games, Indoor Games, Toys, Books, Gadgets, etc. The dataset, named "Student Survey," includes 
-a column named "Store Setting," which indicates the type of location where the store is situated. This project aims to 
-extract meaningful insights from the "Student Survey" dataset to provide valuable insights for retail stores operating 
-in different settings.
-Industry Type: Retail Store
-Dataset: Student Survey
+
