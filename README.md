@@ -17,6 +17,6 @@ Learning Objectives:
 4. Publishing Reports in Power BI Service: Acquired knowledge on publishing Power BI reports to the Power BI service for
 5. collaborative and centralized access.
 6. Gateway Connection and Schedule Refresh: Understanding of establishing gateway connections and scheduling data refreshes
-7. to ensure up-to-date insights.
+7. To ensure up-to-date insights.
 
 
