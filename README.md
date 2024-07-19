@@ -18,13 +18,13 @@ security implementation, and report publishing.
 6. Gateway Connection and Schedule Refresh: Understanding of establishing gateway connections and scheduling data refreshes
 7. To ensure up-to-date insights.
 
-Dataset: University student addmission 
+Dataset: University student admission 
 
 ## Project 2 : Learning Objectives:
 1. Data Transformations: Understanding and applying data transformation techniques in Query Editor: Append Data
 Split Data, Column Formatting, Fill Columns, Transpose Table, Pivot/Unpivot, Merge Join, Conditional Columns, Index Columns,
 Create Summary Tables.
 
-2.Advanced Visualizations: Building advanced custom visualizations using expressions and filters.
+2. Advanced Visualizations: Building advanced custom visualizations using expressions and filters.
 
-3.Top Down and Bottom Up Analysis and vice versa.
+3. Top Down and Bottom Up Analysis and vice versa.
